@@ -1,1 +1,0 @@
-Wiring diagrams to be used with http://diagram.ly
